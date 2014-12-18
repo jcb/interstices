@@ -49,4 +49,5 @@ Ce que l'on veut raconter :
 => c'est un peu comme si pour débarrasser une table on enlevait les chaises
 
 
-3. 
+3. Comment les données sont stocker et structurer
+	- Aimant sur les disques dur / disquette

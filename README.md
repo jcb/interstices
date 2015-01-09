@@ -49,5 +49,16 @@ Ce que l'on veut raconter :
 => c'est un peu comme si pour débarrasser une table on enlevait les chaises
 
 
-3. Comment les données sont stocker et structurer
+3. Comment les données sont stockées et structurées
 	- Aimant sur les disques dur / disquette
+
+
+4. « Il existe une architecture universelle avec son OS unique »
+
+Idée générale : virus/cheval de Troie développé à la va-vite et mis sur une
+machine dont on ne connait ni l'architecture, ni l'OS.
+
+Film : Independence Day (me semble-t-il) avec le virus uploadé chez les aliens
+
+
+
